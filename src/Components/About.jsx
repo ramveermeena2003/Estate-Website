@@ -35,7 +35,7 @@ const About = () => {
                         </div>
                     </div>
                     <p className='my-10 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui nam eos inventore non praesentium odit nobis dolor eaque sunt nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, possimus reiciendis voluptas asperiores error neque fugit quas commodi provident ipsum.</p>
-                    <button className='bg-blue-600  text-white px-8 py-2 rounded'>Learn more</button>
+                    <a href='#Testimonials' className='bg-blue-600  text-white px-8 py-2 rounded'>Explore more</a>
 
                 </div>
             </div>
